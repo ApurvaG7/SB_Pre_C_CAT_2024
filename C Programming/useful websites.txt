@@ -1,1 +1,3 @@
 https://decimal.info/
+
+https://testbook.com/gate/storage-classes-in-c#:~:text=22%2036-,Register%20Storage%20Class,0,-Practice%20Problems%20on
