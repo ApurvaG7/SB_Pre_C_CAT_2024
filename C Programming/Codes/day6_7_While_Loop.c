@@ -1,4 +1,4 @@
-//  Luups
+//  Loops
 
 // there are 2 clasification in loops
 //      1) Entry Controlled Loops   :   For  While
