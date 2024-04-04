@@ -10,7 +10,7 @@ void main()
     arre[0] = 10;   // assignment
     arre[1] = 20;   
 
-    printf("\nArre[1] = %d",arre[1]);   //10
+    printf("\nArre[1] = %d",arre[1]);   //20
     printf("\nArre[2] = %d",arre[2]);   //garbage value
 
     int arree[5] = {11,12,13,14,15};    // Array Initialization
