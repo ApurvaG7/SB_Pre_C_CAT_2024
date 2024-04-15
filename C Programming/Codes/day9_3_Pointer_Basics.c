@@ -14,7 +14,7 @@ void main()
     printf("\nAddress of n = %u",&n);   // eg: 1000
     printf("\nAddress of n using pointer = %u",ptr);
     printf("\nn using ptr = %d",*ptr);  // dereferencing
-    // * is dereeferencin operator
+    // * is dereferencing operator
     // * it also means ~ value at pointer
     
     // *ptr ~ value of n --> 10
@@ -73,10 +73,10 @@ we can call the value at A using pointer also
 we can also update the value of A using pointer 
 
 
-Every variable has a memroy location and every memory location has its address defined
+Every variable has a memory location and every memory location has its address defined
 which can be accessed using & which denotes the address in the memory
 
-A pointer pointer is a variable whose value is teh address of another variable
+A pointer pointer is a variable whose value is the address of another variable
 ie>     direct address of the memory location
 
 //  internally a pointer is an unsigned integer

@@ -10,7 +10,7 @@ void main()
 
     void *ptr = NULL; // void pointer
 
-    ptr = &num;     // we have declared that ptr is storeing the address of num
+    ptr = &num;     // we have declared that ptr is storing the address of num
 
     // 
 
