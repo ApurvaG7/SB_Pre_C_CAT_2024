@@ -1,0 +1,17 @@
+Infix to Postfix Conversion The Easy Way
+https://youtu.be/vXPL6UavUeA?si=ON585RYCmR4vHWLO
+
+Infix to Prefix using Stack | Easy Method
+https://www.youtube.com/watch?v=8QxlrRws9OI
+
+Infix	Prefix	Postfix Verify
+https://raj457036.github.io/Simple-Tools/prefixAndPostfixConvertor.html
+
+Prefix expression calculator
+https://www.calcont.in/Calculator/Prefix_calculator/
+
+Postfix expression calculator
+https://www.calcont.in/Calculator/Postfix_calculator/
+
+Evaluation of Prefix and Postfix expressions using Stack | Easy Method
+https://www.youtube.com/watch?v=o6vj5l_W2h8
