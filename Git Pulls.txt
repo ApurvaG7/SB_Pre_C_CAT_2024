@@ -1,0 +1,10 @@
+git clone https://github.com/PreCAT-PH27/DataStructure.git
+
+
+git clone https://github.com/PreCAT-PH27/Cprogramming.git
+
+
+git clone https://github.com/PreCAT-PH27/Aptitude.git
+
+
+git clone https://github.com/PreCAT-PH27/ObjectOrientsConcepts.git
