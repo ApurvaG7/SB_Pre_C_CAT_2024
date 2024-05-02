@@ -24,11 +24,21 @@ https://www.javatpoint.com/size-of-empty-class-in-java
 
 https://www.javatpoint.com/cpp-this-pointer
 
+https://www.javatpoint.com/java-constructor		https://www.javatpoint.com/cpp-constructor
 
+https://www.javatpoint.com/cpp-destructor		https://www.javatpoint.com/java-destructor
 
+https://www.javatpoint.com/dart-getters-and-setters		https://www.javatpoint.com/getter-and-setter-method-in-java-example
 
+https://www.javatpoint.com/scope-resolution-operator-in-java		https://www.javatpoint.com/scope-resolution-operator-in-cpp
 
+https://www.javatpoint.com/cpp-basic-input-output		https://www.javatpoint.com/cin-get-in-cpp
 
+https://www.javatpoint.com/what-is-modular-programming
+
+https://www.javatpoint.com/const-keyword-in-cpp		https://www.javatpoint.com/java-constant
+
+https://www.javatpoint.com/cpp-references		https://www.javatpoint.com/what-is-a-reference-variable-in-java
 
 
 
